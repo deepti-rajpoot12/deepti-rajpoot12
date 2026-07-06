@@ -1,5 +1,5 @@
 # Hi, I'm Deepti 👋
-I’m a pre-final year engineering student interested in full stack development and problem solving.
+I’m a final year engineering student interested in full stack development and problem solving.
 I enjoy building real-world projects and understanding how things work behind the scenes, especially in backend development.
 
 ---
