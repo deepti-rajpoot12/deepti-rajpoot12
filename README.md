@@ -14,7 +14,7 @@ I enjoy building real-world projects and understanding how things work behind th
 
 ## 🚀 Projects
 
-* **Airbnb Clone**
+* **StayEase**
   A full stack web application with authentication, booking system, search & filters, map integration and reviews
 
 * **DSA Practice**
