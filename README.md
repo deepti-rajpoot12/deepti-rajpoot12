@@ -6,7 +6,7 @@ I enjoy building real-world projects and understanding how things work behind th
 
 ## 💻 What I’m currently doing
 
-* Working on full stack projects using Node.js, Express and MongoDB
+* Working on full stack projects using Node.js, Express ,MongoDB and React
 * Practicing Data Structures and Algorithms in Java
 * Trying to write cleaner and more structured code
 
@@ -28,6 +28,7 @@ I enjoy building real-world projects and understanding how things work behind th
 * HTML, CSS, JavaScript
 * Node.js, Express
 * MongoDB
+* React.js
 
 ---
 
